@@ -1,1 +1,1 @@
-# -D2VCC-DAISEE_to_VRESEE_CrossDomain_Competition
+# D2VCC: DAISEE_to_VRESEE_CrossDomain_Competition
